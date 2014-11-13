@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-Test repository
+Test repository.
+Testing commit.
